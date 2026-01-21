@@ -1,7 +1,7 @@
 # PRODIGY_ST_02
 This repository contains a detailed compatibility testing report for the Shoplane E-commerce demo website, conducted across desktop and mobile views using Google Chrome.
 
-**Application Under Test (AUT)**
+***Application Under Test (AUT)***
 
 Website Name: ShopLane (Demo E-commerce Website)
 
@@ -11,7 +11,7 @@ Application Type: Web Application
 
 Domain: E-commerce
 
-**Objectives**
+***Objectives***
 
 Verify website compatibility across different browsers
 
@@ -21,7 +21,7 @@ Identify layout, responsiveness, and functional issues
 
 Document observations and provide recommendations
 
-**Testing Scope**
+***Testing Scope***
 
 **In Scope**
 
