@@ -48,9 +48,9 @@ Payment gateway validation
 **Project Structure**
 Task-02-Compatibility-Testing/
 │
+├── screenshots
 ├── prodigy task 2.md
-├── README.md
-└── screenshots
+└── README.md
 
 **Conclusion**
 
