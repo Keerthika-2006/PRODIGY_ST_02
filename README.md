@@ -44,3 +44,10 @@ Security testing
 Backend / API testing
 
 Payment gateway validation
+
+**Project Structure**
+Task-02-Compatibility-Testing/
+│
+├── prodigy task 2.md
+├── README.md
+└── screenshots
