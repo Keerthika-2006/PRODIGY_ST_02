@@ -45,7 +45,7 @@ Backend / API testing
 
 Payment gateway validation
 
-**Project Structure**
+**Repository Structure**
 Task-02-Compatibility-Testing/
 │
 ├── screenshots
